@@ -23,14 +23,14 @@
 
 ## ~~💬 Chat~~
 
-~~You are welcome to visit Magma's Discord server [here](https://discord.gg/Magma) (recommended).~~
+~~You are welcome to visit Magma's Discord server [here](https://discord.gg/Magma) (recommended).~~ ⚠️ The discord server is locked down. ⚠️
 
-~~You could also go to Magma's subreddit [here](https://www.reddit.com/r/Magma).~~
+~~You could also go to Magma's subreddit [here](https://www.reddit.com/r/Magma).~~ ⚠️ You will not receive support ⚠️
 
 ## 👥 Partners
 <a href="https://craftycontrol.com/"><img src="https://i.imgur.com/243oDOX.png" width="100" height="100"></a>
 
-### ~~YourKit~~
+### YourKit
 ![YourKit-Logo](https://www.yourkit.com/images/yklogo.png)
 
 [YourKit](http://www.yourkit.com/), makers of the outstanding java profiler, support open source projects of all kinds with their full featured [Java](https://www.yourkit.com/java/profiler/index.jsp) and [.NET](https://www.yourkit.com/.net/profiler/index.jsp) application profilers.
